@@ -46,7 +46,7 @@ I'm a Computer Science Student 😊.
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rahulsingh7105&theme=dracula&column=7&margin-w=15&margin-h=15)
 
 ### CP Profiles
- GeeksForGeeks  https://auth.geeksforgeeks.org/user/
+ GeeksForGeeks  https://auth.geeksforgeeks.org/user/rahulsingh7105
  Hackerrank     https://www.hackerrank.com/  
  HackerEarth    https://www.hackerearth.com/ 
  CodeChef       https://www.codechef.com/users/  
