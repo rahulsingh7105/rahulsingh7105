@@ -52,7 +52,7 @@ I'm a Computer Science Student 😊.
  LeetCode       https://leetcode.com/rahulsingh7105/ 
  
 ### YouTube
- https://www.youtube.com/channel/
+ https://www.youtube.com/channel/UCmlXDG2zYj7JTjOwQ0DvgFg
  
 
 ## 📊 Github stats
