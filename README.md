@@ -47,11 +47,9 @@ I'm a Computer Science Student 😊.
 
 ### CP Profiles
  GeeksForGeeks  https://auth.geeksforgeeks.org/user/rahulsingh7105/         
- Hackerrank     https://www.hackerrank.com/rahulsingh71059/      
- HackerEarth    https://www.hackerearth.com/ 
- CodeChef       https://www.codechef.com/users/  
- CodeForces     https://codeforces.com/profile/  
- LeetCode       https://leetcode.com/  
+ Hackerrank     https://www.hackerrank.com/rahulsingh7105/        
+ CodeChef       https://www.codechef.com/users/rahulsingh71059/             
+ LeetCode       https://leetcode.com/rahulsingh7105/ 
  
 ### YouTube
  https://www.youtube.com/channel/
