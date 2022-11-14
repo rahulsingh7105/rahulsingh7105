@@ -7,7 +7,7 @@ I'm a Computer Science Student 😊.
 💻 Worked on many different technologies.  
 📜 Created many useful Scripts for students like File Downloader and Handler, Deep Search, Automation Scripts, etc.  
 
-<img alt="GIF" src="https://github.com/roshan9419/rahulsingh7105/blob/main/img.gif?raw=true" width="500"/>  
+<img alt="GIF" src="https://github.com/rahulsingh7105/blob/main/img.gif?raw=true" width="500"/>  
 
 ### Languages and Tools  
 
