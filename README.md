@@ -29,6 +29,7 @@ I'm a Computer Science Student 😊.
 <code><img height="30" src="https://img.icons8.com/officel/16/000000/selenium-test-automation.png"/></code>  -->
 
 ### Interests
+
 👍 Cyber Security
 👍 App Development  
 👍 AI / ML  
