@@ -1,7 +1,7 @@
 ## Hey, I'm Rahul Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rahulsingh7105.visitor-badge) -->
-<a href="https://github.com/rahulsingh7105"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rahulsingh74105?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
+<a href="https://github.com/rahulsingh7105"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rahulsingh7105?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
     
 I'm a Computer Science Student 😊.  
 💻 Worked on many different technologies.  
