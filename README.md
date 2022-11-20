@@ -78,7 +78,7 @@ I'm a Computer Science Student 😊.
 <a href="https://t.me/rahulsingh7105" target="_blank">
   <img align="left" alt="Rahul's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
-<a href="rahulsingh71059@gmail.com" target="_blank">
+<a href="mailto: rahulsingh71059@gmail.com" target="_blank">
   <img align="left" alt="Rahul's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
