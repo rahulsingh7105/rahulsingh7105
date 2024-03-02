@@ -47,10 +47,10 @@ I'm a Computer Science Student 😊.
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rahulsingh7105&theme=dracula&column=7&margin-w=15&margin-h=15)
 
 ### CP Profiles
- GeeksForGeeks  https://auth.geeksforgeeks.org/user/rahulsingh7105/         
- Hackerrank     https://www.hackerrank.com/rahulsingh7105/        
- CodeChef       https://www.codechef.com/users/rahulsingh7105/             
- LeetCode       https://leetcode.com/rahulsingh7105/ 
+Tryhackme    https://tryhackme.com/p/rahulsingh71059/           
+HackTheBox    https://app.hackthebox.com/profile/1706060/               
+Hackerrank     https://www.hackerrank.com/rahulsingh7105/        
+LeetCode       https://leetcode.com/rahulsingh7105/ 
  
 ### YouTube
  https://www.youtube.com/channel/UCmlXDG2zYj7JTjOwQ0DvgFg
@@ -66,8 +66,6 @@ I'm a Computer Science Student 😊.
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 <!-- </details> -->
-
-<a><img alt="Rahul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rahulsingh7105&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/rahulsingh7105/" target="_blank">
