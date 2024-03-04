@@ -33,10 +33,6 @@ I'm a Computer Science Student 😊.
 👍 App Development  
 👍 AI / ML  
 👍 Software Development  
-👍 Game Development  
-👍 Data Analysis  
-👍 Web Development
-
 
 ### Awards 
 ✨ 3rd Rank at Online CodeEd Hackathon 2021  
